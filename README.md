@@ -1,4 +1,4 @@
-# mi20210630 github main website page
+# mi20210630
 
 ## The interesting things
 
